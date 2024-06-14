@@ -1,5 +1,6 @@
 # DAY-2
 Min Stack - Stacks
+
 Problem Statement
 
 Design a stack that supports push, pop, top, and retrieving the minimum element in constant time.
